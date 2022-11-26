@@ -24,6 +24,10 @@ maintenance
 git pull
 git log
 
+configuration of considered files
+.gitignore
+    SinglePageWebApplicationsWithAngularJS/Week5/Lecture59/         # add a directory to avoid Git monitoring of files
+
 Tools
 [StructuRise | Schreenshot OCR](http://www.structurise.com/screenshot-ocr/)
 [Node.js®](https://nodejs.org/en/)
